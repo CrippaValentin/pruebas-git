@@ -1,0 +1,23 @@
+* commit 8a831efb8386b61eb7cb95a49c81ed8a255083ef (HEAD -> master, codigo)
+| Author: CrippaValentin <valentincrippa@gmail.com>
+| Date:   Mon Apr 23 23:30:12 2018 -0300
+| 
+|     Muestra si es menor de edad
+| 
+* commit 5362e313e8ff6a47d07d131f19843e2a7cd95c65
+| Author: CrippaValentin <valentincrippa@gmail.com>
+| Date:   Mon Apr 23 23:29:04 2018 -0300
+| 
+|     Muestra si es mayor de edad
+| 
+* commit d64ec717d1c15144b1b0cffe8435ca2085f117c5 (origin/master, origin/HEAD)
+  Author: CrippaValentin <38676032+CrippaValentin@users.noreply.github.com>
+  Date:   Mon Apr 23 22:49:30 2018 -0300
+  
+      Initial commit
+8a831ef HEAD@{0}: merge codigo: Fast-forward
+d64ec71 HEAD@{1}: checkout: moving from codigo to master
+8a831ef HEAD@{2}: commit: Muestra si es menor de edad
+5362e31 HEAD@{3}: commit: Muestra si es mayor de edad
+d64ec71 HEAD@{4}: checkout: moving from master to codigo
+d64ec71 HEAD@{5}: clone: from https://github.com/CrippaValentin/pruebas-git.git
